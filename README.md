@@ -1,0 +1,1 @@
+# hr-side-asset-manage
